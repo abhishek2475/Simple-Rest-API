@@ -1,0 +1,14 @@
+# Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment directories
+.venv/
+
+# IDE/editor config files (optional, depending on your editor)
+.vscode/
+.idea/
+
+# Dependency directories
+node_modules/
